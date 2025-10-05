@@ -1,10 +1,9 @@
 import React from 'react';
+import Header from './Header';
 
 const Browse = () => {
   return (
-    <div className="text-2xl font-bold flex items-center justify-center bg-red-500 h-screen">
-      Browse Page
-    </div>
+    <Header/>
   );
 };
 

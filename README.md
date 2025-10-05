@@ -12,4 +12,5 @@
 
   --
   netlix gpt has a search bar which has movie suggestion
-eeee
+
+--form validation what is useRef hook?
